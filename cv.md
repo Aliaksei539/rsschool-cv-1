@@ -1,4 +1,10 @@
-*Этот текст будет наклонным*
-**Этот текст будет жирным**
-# Это самый крупный заголовок, он превращается в тег <h1>
-_Можно **вставлять** один тип в другой_
+# __Aliaksei Khalaniavets__
+# __My contact info__
+
+  * __adress:__ Belarus, Mogilev  
+  * __phone:__ +375336289304
+  * __email:__ aholonevec@gmail.com
+  * __GitHub:__ Aliaksei539
+
+## __About me__
+I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
